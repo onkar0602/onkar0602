@@ -104,6 +104,7 @@
 | **Node.js Application Deployment** | AWS EC2, Amazon Linux, Node.js, npm, PM2, Git | Deployed a Node.js web application on AWS EC2 using PM2 for process management and Git for source code deployment. | [View Project](https://github.com/onkar0602/Node.js_-Application-Deployment-on-AWS_-EC2.git) |
 | **Three-Tier Web Application on AWS** | AWS VPC, EC2, NGINX, Apache Tomcat, Amazon RDS, NAT Gateway | Built a secure three-tier architecture with separate presentation, application, and database layers using AWS networking services and Amazon RDS. | [View Project](https://github.com/onkar0602/Three-Tier-Web-Application-Deployment-on-AWS.git) |
 | **WordPress Deployment on AWS EC2** | AWS EC2, Amazon Linux, Apache, PHP, MariaDB, WordPress | Installed and configured a WordPress website on AWS EC2 using Apache, PHP, and MariaDB to host a dynamic CMS-based website. | [View Project](https://github.com/onkar0602/WordPress-Deployment-on-AWS-EC2-using-Apache-PHP-MariaDB.git) |
+|AI Resume Screening System** | Python, Streamlit, Google Gemini Ai, SpaCy, Scikit-Learn,Pandas,FastApi, Aws Ec2 | The AI Resume Screening System is an intelligent web application that automates the resume screening process using Artificial Intelligence. It analyzes resumes against a given Job Description (JD), calculates an ATS compatibility score, identifies missing skills, and provides recommendations to improve the resume. | [View Project](https://github.com/onkar0602/AI-Resume-Screening-System.git) |
 
 
 
